@@ -1,8 +1,8 @@
-/*HOME*/
+﻿/*HOME*/
 /*TYPOGRAPHY*/
 
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #37424a;
     border-radius: 0px;
 }
@@ -10,7 +10,7 @@ a {
     outline: none;
 }
 .header-banner h1 {
-    font-family: 'PT Serif', serif;
+    font-family: 'Pt Serif', serif;
     color: #37424a;
     font-weight: bold;
 }
@@ -22,15 +22,15 @@ a {
 }
 
 .header-banner h3 {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 img.eyeris-logo  { width: 150px;
 }
 
 .portfolio-item h4 {
-    font-family: 'PT Sans', sans-serif;
-    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+/*    font-weight: bold; */
 }
 
 body {
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .banner-bg {
-    background-color: #FFC0CB;
+    background-color: #cc9999;
     width: 100%;
 }
 
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #c2d53f;
+    background-color: #cc9999;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -163,17 +163,17 @@ a:hover {
 
 .navbar-inverse .navbar-nav a:hover {
     text-decoration: none;
-    border-color: #c2d53f;
+    border-color: #cc9999;
 }
 
 .container-fluid .jumbotron {
-    background-color: #c2d53f;
+    background-color: #cc9999;
     padding-left: 0px;
     margin-bottom: 35px;
 }
 
 .jumbotron small {
-    color: #d8e867;
+    color: #ffcccc;
 }
 
 .navbar-inverse.navbar-toggle {
@@ -181,11 +181,11 @@ a:hover {
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #c2d53f;
+    background-color: #cc9999;
 }
 
 .navbar-inverse .navbar-toggle:hover {
-    color: #fce475; background-color: transparent;
+    color: #cc9999; background-color: transparent;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -197,12 +197,12 @@ a:hover {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > li > a:hover {
-    color: white; background-color: #c2d53f;
+    color: white; background-color: #cc9999;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
     background-color: transparent;
-    color: #a0b701;
+    color: #cc9999;
 }
 
 .portfolio-list {
@@ -256,7 +256,7 @@ div.jumbotron .pi {
 }
 
 .project-info p {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 span.headline {
@@ -289,12 +289,12 @@ div.piblock {
     padding-right: 5px;
 }
 .footer a:hover {
-    color: #c2d53f;
+    color: #cc9999;
 }
 .footer i{
     width: 25px;
     vertical-align: middle;
-    color: #c2d53f;
+    color: #cc9999;
 }
 
 .footer img {
@@ -438,8 +438,8 @@ span.hobby {
 }
 
 .about li:before {
-    content: "• ";
-    color: white;
+    content: "- ";
+    color: #37424a;
 }
 
 .for-phone li:before {
@@ -465,7 +465,7 @@ ul {
     }
 
 .navbar-default .navbar-nav > .lang > a {
-    color: #c2d53f;
+    color: #cc9999;
 }
 
 .navbar-default .navbar-nav > .lang > a:hover {
@@ -489,8 +489,8 @@ ul {
 
 .languages h3, .interests h3, .skills h3 {margin-top: 0px;}
 .skills {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 
@@ -511,10 +511,11 @@ img.tools {width: 55px; padding: 5px;}
 
 .ghost-button {
     color: #37424a;
-    background-color: white;
+    background: transparent;
+    border: 2px solid white;
     font-size: 17px;
     font-weight: bold;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     letter-spacing: 0.5px;
     padding: 15px 40px;
     text-decoration: none;
@@ -524,14 +525,14 @@ img.tools {width: 55px; padding: 5px;}
 }
 
 .ghost-button:hover, .ghost-button:active, .ghost-button:focus {
-  color: #37424a;
-  background: transparent;
-  border: 2px solid white;
+    color: #37424a;
+    background-color: white;
+
   text-decoration: none;
 }
 
 .btn, .btn.active {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     border-radius: 0px;
     background-color: transparent;
@@ -559,7 +560,7 @@ img.tools {width: 55px; padding: 5px;}
 
 }
 .p-about h2{
-    font-family: 'PT Sans', serif;
+    font-family: 'Open Sans', serif;
     color: #37424a;
     font-weight: bold;
 }
@@ -602,7 +603,7 @@ img.tools {width: 55px; padding: 5px;}
     border: none;
 }
 .previous:hover, .previous:focus, .next:hover, .next:focus, .scroll-to-top:hover, .scroll-to-top:focus  {
-    color: #c2d53f;
+    color: #cc9999;
     background-color: #37424a;
     border: none;
 }
@@ -632,9 +633,9 @@ img.tools {width: 55px; padding: 5px;}
 .visitWeb {
     color: #37424a;
     background: transparent;
-      border: 2px solid #c2d53f;
+      border: 2px solid #cc9999;
     font-size: 17px;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     padding: 15px 40px;
     text-decoration: none;
     width: 120px; height: 60px;
@@ -642,7 +643,7 @@ img.tools {width: 55px; padding: 5px;}
 }
 .visitWeb:hover, .visitWeb:active, .visitWeb:focus {
   color: white;
-  background-color: #c2d53f;
+  background-color: #cc9999;
   text-decoration: none;
 }
 
@@ -666,7 +667,7 @@ div.col-md-3.col-xs-12.p-about {
     padding-left: 30px;
 }
 .p-about h3 {
-    color: #c2d53f;
+    color: #cc9999;
 }
 .p-about object { box-shadow: 0 1px 3px rgba(0,0,0,0.1);}
 .carousel-indicators li{
@@ -681,3 +682,12 @@ div.col-md-3.col-xs-12.p-about {
    }
 .carousel-control glyphicon-chevron-left {
     color: #37424a;}
+/*.img-fluid {
+    max-height: 230px;
+
+    margin-top: 20px;
+}*/
+
+.twentytwenty-container {
+    margin: 20px;
+}
