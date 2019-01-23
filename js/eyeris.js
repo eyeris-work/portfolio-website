@@ -139,7 +139,7 @@
             'previous':'<',
             'next': '>',
             'scrollToTop': 'to top',
-            'resumeURL': 'Irina_voscoboinic_CV_en.pdf'
+            'resumeURL': 'Irina_Voscoboinic_CV_en.pdf'
         },
         'ru-RU': {
             'home': 'Главная',
@@ -279,7 +279,7 @@
             'previous': 'Предыдущий',
             'next': 'Следующий',
             'scrollToTop': 'наверх',
-            'resumeURL': 'Irina_voscoboinic_CV_ru.pdf'
+            'resumeURL': 'Irina_Voscoboinic_CV_ru.pdf'
     },
     'no-NO': {
         'home': 'Hjem',
@@ -420,7 +420,7 @@
         'previous':'<',
         'next': '>',
         'scrollToTop': 'til topp',
-        'resumeURL': 'Irina_voscoboinic_CV_no.pdf'
+        'resumeURL': 'Irina_Voscoboinic_CV_no.pdf'
     }
 
     };
