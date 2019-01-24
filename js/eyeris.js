@@ -395,7 +395,7 @@
         'photoSkills2': 'studio belysning grunnleggende',
         'workExpirience': 'Jobbet',
         'freelanceWeb': 'som frilans digital designer',
-        'freelanceWebResp1': 'designed websites and landing pages',
+        'freelanceWebResp1': 'designet nettsider',
         'artDirectorAquarelle': 'som kunstdirektør',
         'AQUARELLE':'i AQUARELLE magasin',
         'aquarelleResp1': 'ledet designavdelingen',
