@@ -490,7 +490,11 @@ ul {
 .languages h3, .interests h3, .skills h3 {margin-top: 0px;}
 .skills {
     padding-left: 40px;
-    padding-right: 40px;
+    padding-right: 30px;
+}
+
+.languages {
+    padding-right: 15px;
 }
 
 
